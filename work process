@@ -1,4 +1,4 @@
 1. We begin by importing the random module, which we will use to randomly select the computer's choice.
 2. We create a list of the available choices: rock, paper, and scissors.
 3. We begin a while loop that will run until the user chooses to quit by entering 'q'.
-4. Inside the loop, we use the input() function to prompt the user to enter their choice: rock, paper, or scissors
+4. Inside the loop, we use the input() function to prompt the user to enter their choice: rock, paper, or scissors. We also give 
