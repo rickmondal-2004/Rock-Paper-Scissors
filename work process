@@ -4,4 +4,4 @@
 4. Inside the loop, we use the input() function to prompt the user to enter their choice: rock, paper, or scissors. We also give the user the option to quit by entering 'q'. The user's input is stored in the user_choice variable.
 5. We check if the user entered 'q' to quit the game. If so, we break out of the while loop and end the game.
 6. We check if the user's choice is a	valid choice by verifying that it is in the choices list. If the user's choice is not valid, we print an error message and return to the beginning of the loop to prompt the user again.
-
+1.	We use random.choice(choices) to randomly select the computer's choice from the choices list. The computer's choice is stored in the computer_choice variable.
