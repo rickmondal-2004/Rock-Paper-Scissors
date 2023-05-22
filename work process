@@ -9,4 +9,4 @@
    If the user's choice is the same as the computer's choice, the game is a tie. If the user's choice beats the computer's choice, the user wins. 
    If the computer's choice beats the user's choice, the computer wins. We print a message to indicate the winner.
 9. The loop begins again, prompting the user to make another choice.
-10. The loop continues until the user enters 'q' to quit the game, at which point we break out of the loop and end the game.
+10. The loop continues
