@@ -6,7 +6,7 @@ Step 5. We check if the user entered 'q' to quit the game. If so, we break out o
 Step 6. We check if the user's choice is a valid choice by verifying that it is in the choices list. If the user's choice is not valid, we print an error message and return to the beginning of the loop to prompt the user again.
 Step 7. We use random.choice(choices) to randomly select the computer's choice from the choices list. The computer's choice is stored in the computer_choice variable.
 Step 8. We use a series of if statements to determine the winner of the game based on the rules of rock-paper-scissors. 
-       If the user's choice is the same as the computer's choice, the game is a tie. If the user's choice beats the computer's choice, the user wins. 
+        If the user's choice is the same as the computer's choice, the game is a tie. If the user's choice beats the computer's choice, the user wins. 
    If the computer's choice beats the user's choice, the computer wins. We print a message to indicate the winner.
 Step 9. The loop begins again, prompting the user to make another choice.
 Step 10. The loop continues until the user enters 'q' to quit the game, at which point we break out of the loop and end the game.
